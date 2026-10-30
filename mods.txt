@@ -1,0 +1,24 @@
+VERSION = 1,
+
+mods
+{
+    mod = CNB42,
+    mod = CleanHotBar,
+    mod = NeatUI_Framework,
+    mod = CleanUI,
+    mod = CombatText,
+    mod = DayZ_HUD,
+    mod = Neat_Building,
+    mod = Neat_Crafting,
+    mod = Project_Cook,
+    mod = Project_Cook_Pixel_Icon_Pack,
+    mod = ProximityInventory,
+    mod = Respawn,
+    mod = TheShortcut,
+    mod = BetterSortCC,
+    mod = B42Trans_CN,
+}
+
+maps
+{
+}
