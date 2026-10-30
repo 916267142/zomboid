@@ -16,6 +16,7 @@ mods
     mod = Respawn,
     mod = TheShortcut,
     mod = BetterSortCC,
+    mod = ShowSkillXpGainB42,
     mod = B42Trans_CN,
 }
 
