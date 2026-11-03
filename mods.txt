@@ -18,7 +18,7 @@ mods
     mod = BetterSortCC,
     mod = ShowSkillXpGainB42,
     mod = B42Trans_CN,
-    mod = PZ_Debug,
+    mod = EQUIPMENT_UI_B42,
 }
 
 maps
