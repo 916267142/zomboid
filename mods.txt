@@ -19,6 +19,8 @@ mods
     mod = ShowSkillXpGainB42,
     mod = B42Trans_CN,
     mod = EQUIPMENT_UI_B42,
+    mod = PZ_Debug,
+    mod = TailorsCut,
 }
 
 maps
